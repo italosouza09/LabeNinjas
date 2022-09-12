@@ -25,6 +25,15 @@ Labeninjas, um projeto de uma página fictícia criado para o curso Web-Fullstac
 
 ---
 
+##  🧭Status do Projeto
+
+ - ⏳ Fazendo
+ - 📥 Testando 
+ - ⌛ Feito [x]
+
+
+---
+
 ## 📲 Website
 
 Link para visualização no surge: [LabeNinjas](https://labeninjas4.surge.sh/)
