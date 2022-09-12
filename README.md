@@ -38,6 +38,9 @@ Link para visualização no surge: [LabeNinjas](https://labeninjas4.surge.sh/)
 ```bash
 $ git clone https://github.com/italosouza09/LabeNinjas.git
 
+- Npm install
+- Npm run start
+
 ---
 
 ****
